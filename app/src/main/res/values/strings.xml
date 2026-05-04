@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Echo App</string>
+    <string name="title_echo_app">Echo App</string>
+    <string name="subtitle_instructions">Type something and hit Submit</string>
+    <string name="label_your_text">Your text</string>
+    <string name="action_submit">Submit</string>
+    <string name="label_echo">Echo</string>
+</resources>
